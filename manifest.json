@@ -1,0 +1,16 @@
+{
+  "domain": "ute",
+  "name": "UTE",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/ute",
+  "requirements": [pyute],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [
+    "@bcantera"
+  ],
+  "iot_class": "cloud_polling",
+  "version": "0.1.0"
+}
