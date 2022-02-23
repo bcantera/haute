@@ -1,0 +1,21 @@
+{
+    "config": {
+        "abort": {
+            "already_configured": "Dispositivo ya configurado"
+        },
+        "error": {
+            "cannot_connect": "Error de conexión, no fue posible conectar con la API de UTE",
+            "invalid_auth": "Error de autenticación",
+            "unknown": "Error inesperado"
+        },
+        "step": {
+            "user": {
+                "description": "Ingresa con la dirección de correo electrónico con la que te registraste en la app de UTE y el número de celular donde la instalaste.",
+                "data": {
+                    "mail": "Correo electrónico",
+                    "phone": "Celular (098111222)"
+                }
+            }
+        }
+    }
+}
